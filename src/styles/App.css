@@ -1,0 +1,30 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+  flex: 1 0 40%;
+  padding: .5em;
+}
+.card p{
+  border: 1px solid grey;
+  margin: 0;
+  padding: .5em;
+}
+
+.form{
+  text-align: center;
+  color: white;
+}
+input{
+  width: 20em;
+  margin-right: 1em;
+}
+.vehiclecards{
+  display: flex;
+  flex-flow: row wrap;
+}
+.jumbotron{
+  font-size: 4em;
+}
